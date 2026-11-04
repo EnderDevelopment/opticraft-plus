@@ -1,0 +1,27 @@
+modLoader="neoforge"
+loaderVersion="[21,)"
+license="All rights reserved"
+[[mods]]
+modId="qol_improvements"
+version="${file.jarVersion}"
+displayName="QoL Improvements"
+logoFile="assets/qol_improvements/icon.png"
+credits=""
+authors=""
+description='''
+A modpack with extensive QoL improvements for Minecraft 1.21.1.
+'''
+
+[[dependencies.qol_improvements]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.qol_improvements]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

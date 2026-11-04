@@ -1,0 +1,37 @@
+{
+    "format_version": "1.10.0",
+    "animations": {
+        "animation.infinite_trading": {
+            "loop": true,
+            "bones": {
+                "bone": {
+                    "rotation": [0, 0, 0]
+                }
+            }
+        },
+        "animation.ore_excavation": {
+            "loop": true,
+            "bones": {
+                "bone": {
+                    "rotation": [0, 0, 0]
+                }
+            }
+        },
+        "animation.enchanting_infuser": {
+            "loop": true,
+            "bones": {
+                "bone": {
+                    "rotation": [0, 0, 0]
+                }
+            }
+        },
+        "animation.rudo_locator": {
+            "loop": true,
+            "bones": {
+                "bone": {
+                    "rotation": [0, 0, 0]
+                }
+            }
+        }
+    }
+}

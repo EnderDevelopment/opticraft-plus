@@ -1,0 +1,19 @@
+{
+    "format_version": "1.10.0",
+    "resource_pack_name": "QoL Improvements Textures",
+    "texture_name": "qol_improvements_textures",
+    "texture_data": {
+        "infinite_trading": {
+            "textures": "textures/gui/infinite_trading.png"
+        },
+        "ore_excavation": {
+            "textures": "textures/gui/ore_excavation.png"
+        },
+        "enchanting_infuser": {
+            "textures": "textures/gui/enchanting_infuser.png"
+        },
+        "rudo_locator": {
+            "textures": "textures/gui/rudo_locator.png"
+        }
+    }
+}
